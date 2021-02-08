@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<% out.println("Hola mundo"); %>
+	<% out.println("Hola mundo fatal"); %>
 </body>
 </html>
